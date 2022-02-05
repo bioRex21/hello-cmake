@@ -11,3 +11,5 @@ go to https://glad.dav1d.de/
 select version 4.5, Core profile (or compatibility if doesn't work), "check Local Files" only
 in project:
 src/includes paste glad folder
+
+Shaders and images need to be in build folder
